@@ -2,7 +2,7 @@ SHELL:=/bin/bash
 
 build::
 	@echo "Building"; \
-	hugo --minify --baseURL "https://www.onereddog.com.au"
+	hugo --minify --baseURL "https://morphwizpromanual.onereddog.com.au"
 
 server:
 	@echo "Debug server"; \
