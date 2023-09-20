@@ -8,13 +8,6 @@ iPadOS 11.0 or later
 Recommended minimum device iPad (6th Generation).
 {{< /tab >}}
 
-{{< tab "iPhone" >}}
-# iPhone
-iOS 11.0 or later  
-<br />
-Recommended minimum device iPhone X.
-{{< /tab >}}
-
 {{< tab "macOS" >}}
 # macOS
 macOS High Sierra (version 10.13) or later
