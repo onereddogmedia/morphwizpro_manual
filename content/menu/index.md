@@ -5,6 +5,7 @@ headless: true
 - [**MorphWiz 2**]({{< relref "/docs/morphwiz2/introduction" >}})
   - [System requirements]({{< relref "/docs/morphwiz2/config#system_requirements" >}})
   - [File locations]({{< relref "/docs/morphwiz2/config#file-locations" >}})
+  - [Acknowledgements]({{< relref "/docs/morphwiz2/acknowledgements" >}})
 - [Overview]({{< relref "/docs/morphwiz2/overview" >}})
 - [Interface overview]({{< relref "/docs/morphwiz2/interface_overview" >}})
   - [Name bar]({{< relref "/docs/morphwiz2/interface_overview#name-bar" >}})
