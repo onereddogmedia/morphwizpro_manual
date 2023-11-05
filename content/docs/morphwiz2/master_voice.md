@@ -33,6 +33,12 @@ The master voice section provides high-level control over various attributes of 
 When in *MIDI* mode both the pitch bend down and up ranges may be set. In *MPE* mode the pitch bend range is the equivalent of pitch bend down. For best results use a pitch bend down/up range of 48 with the fretless playing surface (iOS). When changing bend range and MIDI mode, ensure that both pitch bend down up ranges are set to 48 when returning to the fretless playing surface. While using an external keyboard controller it is necessary to match the pitch bend down/up range to that set within the external controller.
 {{< /hint >}}
 
+{{< hint info >}}
+**Note**  
+When in Mono mode the fretless playing surface will also behave monophonically. This may cause an unexpected behaviour in the Arpgeggiator as played notes are not stacked. Therefore it is recommended to use Poly mode
+when using the Arpgeggiator. This does not apply when using external MIDI keyboards.
+{{< /hint >}}
+
 ## Legato
 
 When Mono is selected, an option is available to enable legato mode on the envelop generators. Playing of new notes while an existing note is held will not trigger the attack phase of the enveloper generator.
