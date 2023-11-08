@@ -26,7 +26,7 @@ Encoding of the sample ready for use by the synthesizer engine happens in the ba
 
 ### Looping
 
-Unlike traditional samplers that may do cross-fade sample looping, MorphWiz 2 samples are looped at zero crossings. However, as the samples are re-synthesized from the original audio spectrum an accurate loop point is not always necessary for glitch free looping.
+MorphWiz 2 does not require you to define exact loop points. The spectral re-synthesizer only needs approximately correct loop points to avoid audio clicks. This is different to traditional samplers that replay the original sample data and require perfect loop points or cross-fades.
 
 Dictate the type of looping of the sustained section. When on, the sample will have a looping sustain section.
 
