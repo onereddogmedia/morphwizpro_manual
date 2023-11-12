@@ -4,7 +4,7 @@
 **Standalone app only**  
 {{< /hint >}}
 
-The Fretless playing surface is the area that contains the notes and expression input to the synthesizer, and is where you play the instrument. It occupies the bottom section of the user interface.
+The isomorphic playing surface is the area that contains the notes and expression input to the synthesizer, and is where you play the instrument. It occupies the bottom section of the user interface.
 
 The notes are arranged similarly to a stringed instrument, for example, a guitar. Each note occupies the vertical column (or fret) with lower pitch on the left, higher pitch on the right.
 

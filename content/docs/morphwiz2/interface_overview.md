@@ -4,13 +4,13 @@ The MorphWiz 2 user interface is arranged into three sections as shown in the sc
 
 ## Standalone app interface
 
-The standalone app interface includes the fretless playing surface.
+The standalone app interface includes the isomorphic playing surface.
 
 ![screen_layout](/images/screen_layout.png)
 
 ## Plugin interface
 
-The plugin interface (when running as an AU/VST) is a compressed version of the intereface without the fretless playing surface. On iOS the AUv3 interface will appear the same as the standalone app.
+The plugin interface (when running as an AU/VST) is a compressed version of the interface without the isomorphic playing surface. On iOS the AUv3 interface will appear the same as the standalone app.
 
 ![screen_layout_plugin](/images/screen_layout_plugin.png)
 
@@ -27,7 +27,7 @@ The Name bar provides functions for preset management and accessing global setti
 **Standalone app only**  
 {{< /hint >}}
 
-Change the current octave of the fretless playing surface.
+Change the current octave of the isomorphic playing surface.
 
 
 ## Preset Name (2)
@@ -99,15 +99,15 @@ The arpeggiator and master effects section. The effects include Distortion, Chor
 **Standalone app only**  
 {{< /hint >}}
 
-Configuration for the fretless playing surface. The musical scale may be selected along with parameters that effect the behavior of the playing surface. In addition, there are controls for voice management, pitch bend,  and master volume. Finally, there are several parameters for real-time audio visualizer, affectionately known as "Blobby".
+Configuration for the isomorphic playing surface. The musical scale may be selected along with parameters that effect the behavior of the playing surface. In addition, there are controls for voice management, pitch bend,  and master volume. Finally, there are several parameters for real-time audio visualizer, affectionately known as "Blobby".
 
-# Fretless playing surface
+# Isomorphic playing surface
 
 {{< hint info >}}
 **Standalone app only**  
 {{< /hint >}}
 
-The [Fretless playing surface]({{< relref "/docs/morphwiz2/fretless" >}}) is the area that contains the notes and expression input to the synthesizer, and is where you play the instrument. It occupies the bottom section of the user interface.
+The [Isomorphic playing surface]({{< relref "/docs/morphwiz2/fretless" >}}) is the area that contains the notes and expression input to the synthesizer, and is where you play the instrument. It occupies the bottom section of the user interface.
 
 The notes are arranged similarly to a stringed instrument, for example, a guitar. Each note occupies the vertical column (or fret) with lower pitch on the left, higher pitch on the right.
 

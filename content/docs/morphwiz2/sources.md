@@ -15,5 +15,5 @@ The sources section describes which sound samples are assigned to each of the fo
 
 {{< hint info >}}
 **Standalone app only**  
-* **Octave:** Change the current octave of the fretless playing surface. Under Source D. Duplicated from the Name bar.
+* **Octave:** Change the current octave of the isomorphic playing surface. Under Source D. Duplicated from the Name bar.
 {{< /hint >}}
