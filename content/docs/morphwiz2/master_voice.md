@@ -42,3 +42,5 @@ when using the Arpgeggiator. This does not apply when using external MIDI keyboa
 ## Legato
 
 When Mono is selected, an option is available to enable legato mode on the envelop generators. Playing of new notes while an existing note is held will not trigger the attack phase of the enveloper generator.
+
+{{< pagebreak >}}

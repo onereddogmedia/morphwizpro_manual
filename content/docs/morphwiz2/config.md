@@ -3,7 +3,7 @@
 {{< tabs "uniqueid-1" >}}
 {{< tab "iPadOS" >}}
 # iPadOS
-iPadOS 11.0 or later  
+iPadOS 12.0 or later  
 <br />
 Recommended minimum device iPad (6th Generation).
 {{< /tab >}}

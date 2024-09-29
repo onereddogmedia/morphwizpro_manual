@@ -26,7 +26,7 @@ Sources within the **User** category may be imported, deleted, exported, or edit
 
 - **Rename:** Delete the selected user source.
 
-- _Delete:_ Swipe left to delete the selected source.
+- **Delete:** To delete the selected source.
 
 * **Import:** Import a new user source.
 
@@ -34,4 +34,4 @@ Sources within the **User** category may be imported, deleted, exported, or edit
 
 - **Edit:** Edit a user source using the [Sources sampler]({{< relref "/docs/morphwiz2/sources_sampler" >}})
 
-
+{{< pagebreak >}}

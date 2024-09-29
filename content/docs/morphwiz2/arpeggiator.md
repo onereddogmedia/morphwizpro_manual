@@ -11,6 +11,8 @@ The arpeggiator subpage consists of two main sections:
 * **Arpeggiator sequencer controls:** These buttons, pop-up menus, and knobs let you edit one or more arpeggiator sequencers.
 
 
+{{< pagebreak >}}
+
 ## Basic arpeggiator controls
 
 The basic arpeggiator controls consist of several buttons, menus, and knobs.
@@ -49,6 +51,8 @@ The basic arpeggiator controls consist of several buttons, menus, and knobs.
 
 * **Tempo:** Set the global tempo.
 
+{{< pagebreak >}}
+
 ## Arpeggiator sequencer
 
 The arpeggiator sequencer section is similar in functionality to a step sequencer. Each bar represents a step. A step may be active or in-active, and used to modulate synthesizer parameters via the modulation matrix.
@@ -72,3 +76,5 @@ The arpeggiator sequencer section is similar in functionality to a step sequence
 * **Step Value bar:** Drag the bar up and down to change the value of the selected target parameter.
 
 * **Step Enable:** Enable or disable the step. 
+
+{{< pagebreak >}}

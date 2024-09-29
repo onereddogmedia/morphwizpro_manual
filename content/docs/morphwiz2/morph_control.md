@@ -21,3 +21,5 @@ The morph controls determine how the four Sources are combined to produce a new 
 * **XY Pad:** Drag the handle modulate the two X and Y parameters simultaneously. In Linear modes the handle modulates only the Y parameter.
 
 * **Wizard:** The Wizard shows the real-time oscilloscope and frequency spectrum of each Voice, prior to the Effects section.
+
+{{< pagebreak >}}

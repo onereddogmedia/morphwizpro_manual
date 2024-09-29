@@ -27,5 +27,7 @@ iPad splash screen has been designed using images from [freepik.com](https://www
 * [Wayne Ingram](https://wingrammusic.com/)
 * [Jordan Rudess](https://www.jordanrudess.com/)
 
-Copyright ©2023 Wizdom Music Inc.  
+Copyright ©2024 Wizdom Music Inc.  
 All rights reserved
+
+{{< pagebreak >}}

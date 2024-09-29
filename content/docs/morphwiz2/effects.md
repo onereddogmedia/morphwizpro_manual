@@ -8,6 +8,8 @@ Certain parameters in the effects rack may also be modulated by the  modulation 
 
 ![effects_rack](/images/effects_rack.png)
 
+{{< pagebreak >}}
+
 ## Distortion
 
 Distortion effect with multiple algorithms including overdrive, bitcrusher and waveshaping.
@@ -25,6 +27,8 @@ Distortion effect with multiple algorithms including overdrive, bitcrusher and w
 * **Sat:** Set the amount of bit saturation (Bit Saturator algorithm only).
 
 * **Mix:** Determine the wet/dry balance (0% = dry only; 50% = equal mix; 100% = wet only).
+
+{{< pagebreak >}}
 
 ## Chorus
 
@@ -46,6 +50,8 @@ Stereo chorus with varying degrees of spacial dimension.
 
 * **Mix:** Determine the wet/dry balance (0% = dry only; 50% = equal mix; 100% = wet only).
 
+{{< pagebreak >}}
+
 ## Delay
 
 Stereo delay with feedback and independent channel delay times.
@@ -65,6 +71,8 @@ Stereo delay with feedback and independent channel delay times.
 * **Feedback:** Determine the amount of delayed signal fed back to the input of the delay.
 
 * **Mix:** Determine the wet/dry balance (0% = dry only; 50% = equal mix; 100% = wet only).
+
+{{< pagebreak >}}
 
 ## Reverb
 
@@ -88,6 +96,7 @@ Plate reverb with a vintage character.
 
 * **Mix:** Determine the wet/dry balance (0% = dry only; 50% = equal mix; 100% = wet only).
 
+{{< pagebreak >}}
 
 ## Mist reverb
 
@@ -114,3 +123,5 @@ Based on the Mutable Instruments Clouds Eurorack module.
 * **Reverb:** Reverberation amount.
 
 * **Mix:** Determine the wet/dry balance (0% = dry only; 50% = equal mix; 100% = wet only).
+
+{{< pagebreak >}}

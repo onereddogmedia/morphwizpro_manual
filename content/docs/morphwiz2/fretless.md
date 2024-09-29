@@ -42,6 +42,8 @@ The playing surface parameters are shown when **NOTES** is selected on the Param
 
 * **Height:** Adjust the number of rows (or strings), up to a maximum of six.
 
+{{< pagebreak >}}
+
 ## Blobby
 
 Blobby is the pet name for the real-time audio visualizer.
@@ -57,3 +59,5 @@ Blobby is the pet name for the real-time audio visualizer.
 * **Frets:** Show or hide the fret markers.
 
 * **Notes:** Show or hide the note name markers.
+
+{{< pagebreak >}}

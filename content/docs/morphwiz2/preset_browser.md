@@ -25,7 +25,7 @@ Banks are sorted alphabetically with the factory bank listed first. Simply tap o
 
 * **Export:** Export a user created present bank to an external file.
 
-* _Delete:_ Swipe left to delete a user created bank.
+* **Delete:** To delete a user created bank.
 
 * **Restore:** This will restore the default factory bank to initial values.
 
@@ -45,11 +45,15 @@ Presets are sorted alphabetically. Simply tap or click a preset name to the load
 
 * **Save:** Save the current preset.
 
-* _Delete:_ Swipe left to delete a preset.
-
 * **Import:** Import a preset.
 
 * **Export:** Export the selected preset.
+
+* **Delete:** To delete a preset.
+
+* **Init Mod:** Initialize the modulation matrix to the default settings.
+
+* **Init:** Load the default preset.
 
 {{< hint danger >}}
 **Delete**  
@@ -60,3 +64,9 @@ Any changes will be lost and cannot be undone.
 ## Init Mod
 
 Initialize the modulation matrix to default values overwriting any current settings.
+
+## Init
+
+Initialize the synthesizer to the default patch, a good starting point to create your own presets.
+
+{{< pagebreak >}}

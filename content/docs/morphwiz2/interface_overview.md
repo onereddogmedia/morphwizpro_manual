@@ -8,12 +8,15 @@ The standalone app interface includes the isomorphic playing surface.
 
 ![screen_layout](/images/screen_layout.png)
 
+{{< pagebreak >}}
+
 ## Plugin interface
 
 The plugin interface (when running as an AU/VST) is a compressed version of the interface without the isomorphic playing surface. On iOS the AUv3 interface will appear the same as the standalone app.
 
 ![screen_layout_plugin](/images/screen_layout_plugin.png)
 
+{{< pagebreak >}}
 
 ## Name bar
 
@@ -38,15 +41,11 @@ Shows the name of the current preset. Tapping or clicking on this area opens the
 
 The left and right arrows load the previous and next preset in the bank.
 
-## Browse (4)
-
-This button will open the [Preset browser]({{< relref "/docs/morphwiz2/preset_browser" >}}) into the Parameter editor section of the user interface.
-
-## All Off (5)
+## All Off (4)
 
 In the event of a stuck MIDI note this button will turn off all playing sound.
 
-## Expand (6)
+## Expand (5)
 
 {{< hint info >}}
 **Standalone app only**  
@@ -54,11 +53,11 @@ In the event of a stuck MIDI note this button will turn off all playing sound.
 
 The size of the Parameter editor section can be expanded. This button rotates through 3 size settings: no Parameter editor, show the Parameter editor, show the larger Parameter editor.
 
-## Random (7)
+## Random (6)
 
 Randomize the Sources used in the current preset.
 
-## Settings (8)
+## Settings (7)
 
 {{< hint info >}}
 **Standalone app only**  
@@ -66,6 +65,7 @@ Randomize the Sources used in the current preset.
 
 Configure the audio and MIDI interfaces used by the application, access the online help.
 
+{{< pagebreak >}}
 
 # Parameter editors
 
@@ -89,7 +89,7 @@ The Sample Editor to load your own sound samples, edit, and encode the sound rea
 
 The modulation matrix is used to assign modulation sources to destination parameters. This includes low frequency oscillators (LFO) and envelope generators along with a range of input parameters from the playing surface or via external MIDI.
 
-## FX
+## ARP/FX
 
 The arpeggiator and master effects section. The effects include Distortion, Chorus, Delay and Reverb.
 
@@ -118,3 +118,5 @@ the initial touch is rounded to the nearest note. By adjusting this accuracy the
 skill of the musician.
 
 In addition, sliding vertically up and down along the fret column can adjust the timbre of the note via the morphing synthesizer engine.
+
+{{< pagebreak >}}

@@ -26,3 +26,5 @@ Sounds may be saved into Presets and collected into Banks. The Preset Browser is
 **iOS only**  
 iOS supports sharing Presets and Sources with iCloud Drive
 {{< /hint >}}
+
+{{< pagebreak >}}

@@ -34,6 +34,7 @@ Dictate the type of looping of the sustained section. When on, the sample will h
 
 * **Loop Rev:** The sustained loop section is played forward to the end of the loop, then in reverse back to the start of the loop.
 
+{{< pagebreak >}}
 
 ## Waveform editor
 
@@ -52,3 +53,5 @@ Tap or click and hold to hear a preview on the originally recorded audio.
 * Loop End marker (3)
 
 * End Marker (4)
+
+{{< pagebreak >}}

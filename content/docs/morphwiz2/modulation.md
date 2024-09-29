@@ -11,7 +11,7 @@ Almost every knob in the MorphWiz 2 interface is a modulation destination, repre
 ![modulation_rack](/images/modulation_rack.png)
 
 
-## Destination (1)
+## Destination
 
 Tap or click the top section of the modulation source, where the name is written, to show the modulation rack destinations. 
 
@@ -27,9 +27,11 @@ Each destination has the following parameters
 
 * **Close button:** Removes the destination.
 
-## Curve (2)
+## Curve
 
 Tap or click the bottom section of the modulation source, to show the modulation curve for the source. As shown in the image below, complex modulation curves may be created by adding additional control points. Double tap or click the curve to add additional control points. Double tapping or clicking an existing control point will delete that point. The curvature is adjustable by dragging the section of the curve between two control points. Straight lines may be bent to form smooth waves.
+
+{{< pagebreak >}}
 
 ## Low Frequency Oscillators (LFO)
 
@@ -41,8 +43,12 @@ Tap or click the bottom section of the modulation source, to show the modulation
 
 * **Reset:** Reset the LFO when a new note is received.
 
-* **Waveform:** A collection of preset waveforms (sine, saw, triangle, square).
- 
+* **Curve:** A collection of preset and user saveable waveforms.
+
+![modulation_user_curve](/images/modulation_user_curve.png)
+
+
+{{< pagebreak >}}
 
 ## Envelope Generators (EG)
 
@@ -53,6 +59,8 @@ There are four envelope generators (colored light green). These follow the class
 Drag the circular handles on the curve to adjust slope. Or use the knobs below the curve. The curvature of the Attack, Decay and Release slopes may be modified by dragging the smaller handle in the middle of the line. Thus  adjusting the slope from linear to exponential. Additional control points cannot be added.
 
 If :ref:`legato` mode is enabled, each envelope will not drop to zero in the event of a retrigger while the envelope is active - instead, the envelope ramps to the new amplitude over the attack period.
+
+{{< pagebreak >}}
 
 ## External sources
 
@@ -84,6 +92,8 @@ Envelope Generator 1 (EG1) and VEL (Note On velocity) are hard-coded to the VCA 
 
 * **Preset:** A collection of preset waveforms (linear, stepped).
 
+{{< pagebreak >}}
+
 ## Random generator
 
 * **Rate:** The frequency at which the random waveform is generated.
@@ -94,3 +104,5 @@ Envelope Generator 1 (EG1) and VEL (Note On velocity) are hard-coded to the VCA 
 **Initialize Modulaton Matrix**  
 The modulation matrix may be reset to a default state via the [Init Mod]({{< relref "/docs/morphwiz2/preset_browser#init-mod" >}}) button on the [Preset browser]({{< relref "/docs/morphwiz2/preset_browser" >}}).
 {{< /hint >}}
+
+{{< pagebreak >}}

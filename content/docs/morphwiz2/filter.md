@@ -23,3 +23,5 @@ The output from all four sources is sent to the filter at levels determined by i
 * **BP:** Enable band pass mode. This is like the Notch inverted, which means that all frequencies are cut except for a narrow range, with the peak at the cutoff point. The filter lets pass only this range (band) of frequencies.
 
 * **24dB:** When on enable a 4-pole (24dB/oct) slope, otherwise 2-pole (12dB/oct) slope.
+
+{{< pagebreak >}}
